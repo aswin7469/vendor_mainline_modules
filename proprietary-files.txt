@@ -37,8 +37,8 @@ system_ext/apex/com.google.android.compos.apex
 # Google Bluetooth Legacy Migration
 system/app/GoogleBluetoothLegacyMigration/GoogleBluetoothLegacyMigration.apk;PRESIGNED
 
-# ModulesMetadata Google
-product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk;OVERRIDES=ModulesMetadata;PRESIGNED
+# ModuleMetadata Google
+product/app/ModuleMetadataGoogle/ModuleMetadataGoogle.apk;OVERRIDES=ModuleMetadata;PRESIGNED
 
 # Intelligence
 system/priv-app/NetworkStackGoogle/NetworkStackGoogle.apk;OVERRIDES=NetworkStack;PRESIGNED
