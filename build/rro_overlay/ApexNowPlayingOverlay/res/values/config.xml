@@ -12,5 +12,6 @@
         <item>com.android.vending/com.google.android.finsky.systemupdate.SystemUpdateSettingsContentProvider</item>
         <item>com.android.vending/com.google.android.finsky.systemupdateactivity.SettingsSecurityEntryPoint</item>
         <item>com.android.vending/com.google.android.finsky.systemupdateactivity.SystemUpdateActivity</item>
+	<item>com.google.pixel.livewallpaper/com.google.pixel.livewallpaper.pokemon.wallpapers.PokemonWallpaper</item>
     </string-array>
 </resources>
